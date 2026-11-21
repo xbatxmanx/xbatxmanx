@@ -1,56 +1,53 @@
 <div align="center">
 
-# Hi, I'm Mohamed 👋
+# Hi, I'm Mohamed
 ### Building & Improving AI Tools and Systems
 
-أعمل على تطوير وتحسين أدوات وأنظمة الذكاء الاصطناعي
+I build, connect, and refine AI tools to make them more useful in practice.
 
-**AI Development · Integration · Experimentation**
+**AI Applications &nbsp; / &nbsp; Agent Workflows &nbsp; / &nbsp; Integration &nbsp; / &nbsp; Local AI**
 
-[About](#about-me) · [Focus](#what-i-work-on) · [Public work](#public-work) · [بالعربي](#بالعربي)
+[About](#about) · [Focus](#focus) · [Featured Work](#featured-work) · [Approach](#approach)
 
 </div>
 
 ---
 
-## About me
+## About
 
-I work on developing and improving AI tools and systems—exploring how to make them more useful, easier to use, and better connected.
+I work on developing AI applications and improving existing tools—from adding useful features and connecting systems to refining how people interact with AI.
 
-My work spans building applications around AI, extending existing tools, connecting capabilities, and experimenting with workflows that turn ideas into practical results.
+I'm interested in the full path from an idea to a working tool: how it behaves, how easy it is to use, and how reliably it handles real tasks.
 
-## What I work on
+## Focus
 
-| Focus | What I aim to improve |
+| Area | What I work toward |
 | :--- | :--- |
-| 🛠️ AI tools & applications | Features, usability, and everyday usefulness |
-| 🔗 Integrations | How models, agents, and tools work together |
-| 🤖 Agent workflows | Task execution, coordination, and automation |
-| 🧪 Experimentation & evaluation | Understanding what works, what fails, and what to improve |
-| 🖥️ Local AI | Exploring practical ways to run AI on personal hardware |
+| **AI tools & applications** | Useful features, clearer interfaces, and practical workflows |
+| **Agents & automation** | Better task execution and coordination between tools |
+| **Integration** | Connecting models, agents, and applications |
+| **Experimentation & evaluation** | Testing behavior, understanding limitations, and improving results |
+| **Local AI** | Exploring ways to make AI practical on personal hardware |
 
-## My approach
+## Featured Work
+
+### [Codex Skills ↗](https://github.com/xbatxmanx/codex-skills)
+
+A curated skill library for AI workflows, with Arabic and English documentation covering security, data analysis, investment research, and idea evaluation.
+
+[Explore the catalog](https://github.com/xbatxmanx/codex-skills#catalog) &nbsp; · &nbsp; [Usage guide](https://github.com/xbatxmanx/codex-skills/blob/main/docs/USAGE.md) &nbsp; · &nbsp; [Requirements & limitations](https://github.com/xbatxmanx/codex-skills/blob/main/docs/DEPENDENCIES.md)
+
+## Approach
 
 **Explore → Build → Test → Improve**
 
-Start with a real need, build something useful, check the results, and keep improving.
-
-## Public work
-
-### 🧩 [Codex Skills](https://github.com/xbatxmanx/codex-skills)
-
-A curated library of skills for AI workflows, with Arabic and English guides.
-
-[Browse the catalog](https://github.com/xbatxmanx/codex-skills#catalog) · [Read the usage guide](https://github.com/xbatxmanx/codex-skills/blob/main/docs/USAGE.md)
-
-## بالعربي
-
-أهلاً، أنا محمد. أعمل على تطوير وتحسين أدوات وأنظمة الذكاء الاصطناعي، من بناء التطبيقات وإضافة إمكانيات جديدة للأدوات الموجودة، إلى ربط النماذج والوكلاء وتجربة طرق أفضل لتنفيذ المهام.
-
-اهتمامي إن أدوات الذكاء الاصطناعي تكون أكثر فائدة وأسهل في الاستخدام، مع اختبار النتائج وتحسينها باستمرار.
+- Start with a practical problem.
+- Improve existing tools when that solves the problem well.
+- Check results and document limitations.
+- Refine both functionality and usability.
 
 ---
 
 <div align="center">
-<sub>Explore possibilities. Build useful tools. Keep improving.</sub>
+<sub>Useful tools. Clear workflows. Continuous improvement.</sub>
 </div>
