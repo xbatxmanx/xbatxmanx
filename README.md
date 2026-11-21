@@ -1,15 +1,13 @@
 <div align="center">
 
 # Hi, I'm Mohamed 👋
-### AI tools · Automation · Practical workflows
+### Building & Improving AI Tools and Systems
 
-أبني أدوات تساعد على تحويل الأفكار إلى تطبيقات عملية
+أعمل على تطوير وتحسين أدوات وأنظمة الذكاء الاصطناعي
 
-[![AI tools](https://img.shields.io/badge/Focus-AI_tools-2563EB?style=flat-square)](#what-i-explore)
-[![Automation](https://img.shields.io/badge/Interest-Automation-0F766E?style=flat-square)](#what-i-explore)
-[![Arabic and English](https://img.shields.io/badge/Docs-Arabic_%2B_English-7C3AED?style=flat-square)](#featured-project)
+**AI Development · Integration · Experimentation**
 
-[Featured project](#featured-project) · [What I explore](#what-i-explore) · [بالعربي](#بالعربي)
+[About](#about-me) · [Focus](#what-i-work-on) · [Public work](#public-work) · [بالعربي](#بالعربي)
 
 </div>
 
@@ -17,39 +15,42 @@
 
 ## About me
 
-I'm Mohamed, exploring how AI and automation can make everyday work more useful and manageable. My interests include local AI, agent workflows, and clear documentation.
+I work on developing and improving AI tools and systems—exploring how to make them more useful, easier to use, and better connected.
 
-I value practical tools, transparent limitations, and results that can be checked.
+My work spans building applications around AI, extending existing tools, connecting capabilities, and experimenting with workflows that turn ideas into practical results.
 
-## Featured project
+## What I work on
+
+| Focus | What I aim to improve |
+| :--- | :--- |
+| 🛠️ AI tools & applications | Features, usability, and everyday usefulness |
+| 🔗 Integrations | How models, agents, and tools work together |
+| 🤖 Agent workflows | Task execution, coordination, and automation |
+| 🧪 Experimentation & evaluation | Understanding what works, what fails, and what to improve |
+| 🖥️ Local AI | Exploring practical ways to run AI on personal hardware |
+
+## My approach
+
+**Explore → Build → Test → Improve**
+
+Start with a real need, build something useful, check the results, and keep improving.
+
+## Public work
 
 ### 🧩 [Codex Skills](https://github.com/xbatxmanx/codex-skills)
 
-A curated skill library with Arabic and English guides, organized around security, data analytics, investment research, and idea evaluation.
+A curated library of skills for AI workflows, with Arabic and English guides.
 
-**Explore:** [Skill catalog](https://github.com/xbatxmanx/codex-skills#catalog) · [Usage guide](https://github.com/xbatxmanx/codex-skills/blob/main/docs/USAGE.md) · [Dependencies](https://github.com/xbatxmanx/codex-skills/blob/main/docs/DEPENDENCIES.md)
-
-> Check each skill's prerequisites and the repository's rights notice before use.
-
-## What I explore
-
-| Area | Interests |
-| :--- | :--- |
-| 🖥️ Local AI | Running AI tools on personal hardware |
-| 🤖 Agent workflows | Coordinating tools, tasks, and verification |
-| ⚙️ Automation | Reducing repetitive work with practical software |
-| 📚 Documentation | Making technical workflows easier to understand in Arabic and English |
+[Browse the catalog](https://github.com/xbatxmanx/codex-skills#catalog) · [Read the usage guide](https://github.com/xbatxmanx/codex-skills/blob/main/docs/USAGE.md)
 
 ## بالعربي
 
-أهلاً، أنا محمد. مهتم بالذكاء الاصطناعي المحلي، وأتمتة المهام، وبناء أدوات عملية تساعد في الشغل اليومي.
+أهلاً، أنا محمد. أعمل على تطوير وتحسين أدوات وأنظمة الذكاء الاصطناعي، من بناء التطبيقات وإضافة إمكانيات جديدة للأدوات الموجودة، إلى ربط النماذج والوكلاء وتجربة طرق أفضل لتنفيذ المهام.
 
-هتلاقي هنا مشروعات متاحة للاستكشاف، وتوثيق بالعربي والإنجليزي يوضح الاستخدام والمتطلبات والحدود.
-
-**ابدأ من [مكتبة مهارات Codex](https://github.com/xbatxmanx/codex-skills).**
+اهتمامي إن أدوات الذكاء الاصطناعي تكون أكثر فائدة وأسهل في الاستخدام، مع اختبار النتائج وتحسينها باستمرار.
 
 ---
 
 <div align="center">
-<sub>Build with purpose. Document clearly. Verify the result.</sub>
+<sub>Explore possibilities. Build useful tools. Keep improving.</sub>
 </div>
