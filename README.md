@@ -11,6 +11,11 @@ I build, connect, and refine AI tools to make them more useful in practice.
 
 </div>
 
+
+<!-- atmos-portfolio-navigation -->
+
+> **Explore the portfolio:** [Local Runtime](https://github.com/xbatxmanx/atmos-local-runtime) · [Workbench](https://github.com/xbatxmanx/atmos-workbench) · [Pixel Office](https://github.com/xbatxmanx/atmos-pixel-office) · [Router](https://github.com/xbatxmanx/Atmos-Router) · [Connect](https://github.com/xbatxmanx/atmos-connect) · [Video Studio](https://github.com/xbatxmanx/atmos-video-studio) · [Private Shield](https://github.com/xbatxmanx/atmos-private-shield) · [FileGuard](https://github.com/xbatxmanx/fileguard)
+
 ---
 
 ## About
